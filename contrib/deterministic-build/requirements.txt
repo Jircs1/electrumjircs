@@ -1,4 +1,4 @@
-aiohttp==3.8.3 \
+aiohttp==3.10.2 \
     --hash=sha256:3828fb41b7203176b82fe5d699e0d845435f2374750a44b480ea6b930f6be269
 aiohttp-socks==0.8.4 \
     --hash=sha256:6b611d4ce838e9cf2c2fed5e0dba447cc84824a6cba95dc5747606201da46cb4
